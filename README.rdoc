@@ -8,3 +8,7 @@ It is being developed by:
 * Martin Cox
 * Nick Johnson
 * Austin Ruggles
+
+This is a Ruby on Rails project with a bunch of CRUD examples.
+
+The goal was to create a Bank Management Utility.
