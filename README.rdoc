@@ -12,3 +12,5 @@ It is being developed by:
 This is a Ruby on Rails project with a bunch of CRUD examples.
 
 The goal was to create a Bank Management Utility.
+
+The gems are out of date and should be updated to latest versions before use.
