@@ -69,7 +69,7 @@ GEM
     prawnto (0.1.1)
       prawn
       rails (>= 2.1)
-    rack (1.5.2)
+    rack (1.5.5)
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.0.2)
